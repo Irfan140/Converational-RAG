@@ -9,3 +9,4 @@ openai
 pypdf
 tiktoken
 langchain_openai
+protobuf==3.20.0
